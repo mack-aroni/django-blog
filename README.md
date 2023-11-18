@@ -1,2 +1,2 @@
 # django_blog
-Blog using Django architectur
+Blog using Django architecture
